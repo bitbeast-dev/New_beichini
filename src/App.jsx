@@ -28,7 +28,7 @@ export default function App() {
                 "Gain practical skills that employers are looking for in today's tech industry",
         },
         {
-            image: 'girl (6).jpg',
+            image: 'girl (4).jpg',
             title: 'Start Your Journey in Tech With Us Today!',
             subtitle:
                 'We empower high school students by offering comprehensive coding practices that enhance their technical skills.',
