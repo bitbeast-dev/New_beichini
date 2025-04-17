@@ -28,7 +28,7 @@ export default function App() {
                 "Gain practical skills that employers are looking for in today's tech industry",
         },
         {
-            image: 'girl (6).jpg',
+            image: 'girl (4).jpg',
             title: 'Start Your Journey in Tech With Us Today!',
             subtitle:
                 'We empower high school students by offering comprehensive coding practices that enhance their technical skills.',
@@ -101,19 +101,19 @@ export default function App() {
             quote: 'Beichini turned my passion into a profession! I landed my first coding job right after graduating.',
             author: 'Jamal K.',
             role: 'Software Developer',
-            image: 'https://randomuser.me/api/portraits/men/32.jpg',
+            image: 'girl (1).jpg',
         },
         {
             quote: 'The instructors made complex topics simple. The Networking course changed my life.',
             author: 'Lucy M.',
             role: 'Network Engineer',
-            image: 'https://randomuser.me/api/portraits/women/44.jpg',
+            image: 'girl (2).jpg',
         },
         {
             quote: 'From zero to designing animations! The Multimedia track gave me a creative career path.',
             author: 'Elvis T.',
             role: 'Multimedia Designer',
-            image: 'https://randomuser.me/api/portraits/men/68.jpg',
+            image: 'girl (5).jpg',
         },
     ];
 
