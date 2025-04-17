@@ -99,21 +99,21 @@ export default function App() {
     const testimonialData = [
         {
             quote: 'Beichini turned my passion into a profession! I landed my first coding job right after graduating.',
-            author: 'Jamal K.',
+            author: 'Nsengumukiza Irene.',
             role: 'Software Developer',
-            image: 'https://randomuser.me/api/portraits/men/32.jpg',
+            image: 'irene.jpg',
         },
         {
             quote: 'The instructors made complex topics simple. The Networking course changed my life.',
-            author: 'Lucy M.',
-            role: 'Network Engineer',
-            image: 'https://randomuser.me/api/portraits/women/44.jpg',
+            author: 'Tuyizere Honore.',
+            role: 'Software Development',
+            image: 'boy (1).jpg',
         },
         {
             quote: 'From zero to designing animations! The Multimedia track gave me a creative career path.',
-            author: 'Elvis T.',
-            role: 'Multimedia Designer',
-            image: 'https://randomuser.me/api/portraits/men/68.jpg',
+            author: 'Kwizera Luccin',
+            role: 'Multimedia',
+            image: 'download.jpg',
         },
     ];
 
@@ -499,25 +499,25 @@ export default function App() {
                                 </h3>
                                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                                     <img
-                                        src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
+                                        src="a (1).jpg"
                                         alt="Students collaborating"
                                         className="rounded-lg h-40 w-full object-cover"
                                     />
 
                                     <img
-                                        src="https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                                        src="a (2).jpg"
                                         alt="Coding session"
                                         className="rounded-lg h-40 w-full object-cover"
                                     />
 
                                     <img
-                                        src="https://images.unsplash.com/photo-1543269865-cbf427effbad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                                        src="download.jpg"
                                         alt="Group project"
                                         className="rounded-lg h-40 w-full object-cover"
                                     />
 
                                     <img
-                                        src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                                        src="girl (4).jpg"
                                         alt="Graduation ceremony"
                                         className="rounded-lg h-40 w-full object-cover"
                                     />
